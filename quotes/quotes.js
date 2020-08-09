@@ -1,119 +1,127 @@
 module.exports = [
     {
-        character: 'Eleanor',
-        quote: 'Holy motherforking shirtballs!'
+        character: 'Aaaarrrrgggghhhh!',
+        quote: 'Pirate catch phrase of grumbling or disgust!'
     },
     {
-        character: 'Chidi',
-        quote: 'There really is an afterlife. I can\'t wait to have breakfast with Kant, and lunch with Michel Foucault, and then have dinner with Kant again so we can talk about what came up at breakfast!'
+        character: 'Ahoy!',
+        quote: 'Hello!'
     },
     {
-        character: 'Tahani',
-        quote: 'It run for 16 years on the BBC. It did nearly 30 episodes.'
+        character: 'Ahoy, Matey',
+        quote: 'Hello, my friend!'
     },
     {
-        character: 'Tahani',
-        quote: 'It\'s #TahaniTime.'
+        character: 'Ahoy, Me Hearties!',
+        quote: 'Hello, my friends, crew members, etc.; addressed to group.'
     },
     {
-        character: 'Tahani',
-        quote: 'I understand nothing.'
+        character: 'All Hand Hoy!',
+        quote: 'Everyone get on deck!'
     },
     {
-        character: 'Eleanor',
-        quote: 'Oh, so now I\'m supposed to be nice and make friends and treat her with mutual respect?'
+        character: 'Avast Ye',
+        quote: 'Pay attention and check this out!'
     },
     {
-        character: 'Michael',
-        quote: 'Any place or thing in the universe can be up to 104% perfect. That\'s how you get Beyoncé.'
+        character: 'Aye',
+        quote: 'Yes'
     },
     {
-        character: 'Eleanor',
-        quote: 'YA BASIC!'
+        character: 'Batten Down The Hatches',
+        quote: 'Tie everything down and put stuff away for a coming storm.'
     },
     {
-        character: 'Janet',
-        quote: 'Fun fact: Columbus is in The Bad Place cause of all the raping, slave trade and genocide.'
+        character: 'Bilge-Sucking',
+        quote: 'An insulting expression of disdain'
     },
     {
-        character: 'Janet',
-        quote: 'Fun fact: Janet is me.'
+        character: 'Blimey!',
+        quote: 'Surprise, shock'
     },
     {
-        character: 'Janet',
-        quote: 'Not a robot.'
+        character: 'Blow me down!	',
+        quote: 'Phrase of amazement or shock'
     },
     {
-        character: 'Janet',
-        quote: 'It turns out the best Janet was the Janet that was inside Janet all along.'
+        character: 'Blow The Man Down	',
+        quote: 'The Captain’s command to get rid of a person'
     },
     {
-        character: 'Janet',
-        quote: 'Fun fact, all deceased members of the Portland Trail Blazers basketball team are also in The Bad Place.'
+        character: 'Booty',
+        quote: 'A treasure'
     },
     {
-        character: 'Janet',
-        quote: 'I suppose after 802 reboots I must have gained the ability to lie. That\'s fun! I want to try to lie again. I love your outfit.'
+        character: 'Bring a Spring Upon ‘er',
+        quote: 'Turn the ship in a different direction'
     },
     {
-        character: 'Janet',
-        quote: 'Fun fact: Mathematically, it\'s equally likely to either im- or ex-plode.'
+        character: 'Broadside',
+        quote: 'The most vulnerable angle of a ship that runs the length of the boat'
     },
     {
-        character: 'Chidi',
-        quote: 'I missed my mom\'s back surgery because I had already promised my landlord\'s nephew that I would help him figure out his new phone.'
+        character: 'Buccaneer',
+        quote: 'A pirate'
     },
     {
-        character: 'Eleanor',
-        quote: 'I\'ll miss you too, you sexy skyscraper.'
+        character: 'Bucko',
+        quote: 'Friend, a pirate, same as a buccaneer'
     },
     {
-        character: 'Jason',
-        quote: 'She\'s my everything. She makes the bass drop in my heart.'
+        character: 'Carouser',
+        quote: 'Reckless or loud person who drinks excessively'
     },
     {
-        character: 'Pillboi',
-        quote: 'You\'ve got dreams in life? That\'s lit.'
+        character: 'Cat O Nine Tails',
+        quote: 'A special kind of whip that has 9 strands'
     },
     {
         character: 'Pillboi',
         quote: 'I refuse to discuss my fifth amendment rights until I concur with your attorney.'
     },
     {
-        character: 'Eleanor',
-        quote: 'Pobody\'s nerfect.'
+        character: 'Chantey',
+        quote: 'Song sung together by sailors or pirates in unison, while they work
+'
     },
     {
-        character: 'Jason',
-        quote: 'I wasn\'t a failed DJ. I was pre-successful.'
+        character: 'Chase',
+        quote: 'A vessel that is being pursued
+'
     },
     {
-        character: 'Tahani',
-        quote: 'I am an expert at mediating conflict. Like when my friends Scary, Sporty, Posh, and Baby had an issue with my other friend Archbishop Desmond Tutu.'
+        character: 'Chase Gun',
+        quote: 'The main cannon at the bow of a ship'
     },
     {
-        character: 'Jason',
-        quote: 'I was scared, dawg, but then I remembered my parole officer\'s advice, "keep your mouth shut or they\'ll throw a book at you."'
+        character: 'Clap of Thunder	',
+        quote: 'Strong, alcoholic drink, like a shot
+'
     },
     {
-        character: 'Jason',
-        quote: 'I hate suits. They remind me of court, and going to court, and being my own lawyer against the advice of a judge in court, and getting immediately convicted in court...'
+        character: 'Cleave Him to the Brisket',
+        quote: 'An order to kill a man by cutting across his chest from the shoulders to stomach.
+'
     },
     {
-        character: 'Jason',
-        quote: 'I\'m telling you, Molotov cocktails work. Anytime I had a problem and I threw a Molotov cocktail, boom! Right away, I had a different problem.'
+        character: 'Clipper',
+        quote: 'Fast-moving boat or ship
+'
     },
     {
-        character: 'Tahani',
-        quote: 'I also dabbled in some other professions. I was a model, a museum curator, an "It Girl," and... oh, I was Baz Luhrmann\'s muse for a while. That was quite fun.'
+        character: 'Coffer',
+        quote: 'The treasure chest
+'
     },
     {
-        character: 'Chidi',
-        quote: 'You know, I thought I\'d have a stomachache right now, but weirdly... I do.'
+        character: 'Cog',
+        quote: 'Smaller war ship
+'
     },
     {
-        character: 'Tahani',
-        quote: 'You know, I haven\'t been this upset since my good friend Taylor was rudely upstaged by my other friend, Kanye, who was defending my best friend, Beyoncé.'
+        character: 'Corsair',
+        quote: 'Pirates from the Mediterranean
+'
     },
     {
         character: 'Michael',
